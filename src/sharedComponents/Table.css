@@ -1,0 +1,29 @@
+.main{
+    display: flex;
+    justify-content:space-around;
+    
+}
+
+/* Table.css */
+.table {
+    border: 1px solid #070404;
+    border-collapse: collapse;
+    border: 1px solid;
+    width: 100%;
+}
+
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #070404;
+    background-color:#bc3c6d ;
+}
+
+.btn-primary3 {
+    background-color: #3c8dbc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
